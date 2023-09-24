@@ -12,3 +12,9 @@ zone = another.example.com
 record = test.another.example.com
 target = ec2_instance_private_ip
 ```
+
+## Test
+
+Connect to EC2 instance in AWS Management Console using Session Manager.
+
+Run `nslookup test.example.com.
